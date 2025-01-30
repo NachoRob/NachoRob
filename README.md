@@ -20,6 +20,12 @@ I'm transitioning into **Data Science** to help businesses grow through **data-d
 - Machine Learning Fundamentals  
 - Building real-world **data analytics projects**  
 
+### :zap: Actividad reciente
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ## 📬 How to Reach Me  
 📧 **Email:** ignaciorob86@gmail.com  
 📸 **Instagram:** [i_ro_86](https://www.instagram.com/i_ro_86/)  
