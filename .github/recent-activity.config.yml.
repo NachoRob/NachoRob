@@ -1,0 +1,9 @@
+github:
+  username: NachoRob
+  token: ${{ secrets.GITHUB_TOKEN }}
+
+activity:
+  limit: 5
+  exclude:
+    - PullRequestReviewEvent
+    - ReleaseEvent
