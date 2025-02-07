@@ -1,9 +1,2 @@
-github:
-  username: NachoRob
-  token: ${{ secrets.GITHUB_TOKEN }}
-
-activity:
-  limit: 5
-  exclude:
-    - PullRequestReviewEvent
-    - ReleaseEvent
+fetch: 20  # Número de actividades recientes a mostrar
+ignored: []  # Puedes agregar eventos a ignorar si lo deseas
