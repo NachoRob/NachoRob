@@ -10,11 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout del repositorio
-        uses: actions/checkout@v3  # Asegura acceso a los archivos
+        uses: actions/checkout@v3  # 🔹 Usa la última versión de checkout
 
       - name: Setup recent activity
-        uses: Readme-Workflows/recent-activity@v2.5.0
+        uses: Readme-Workflows/recent-activity@v2.5.0  # 🔹 Usa la última versión
         with:
-          config-file: .github/recent-activity.config.yml
+          config-file: .github/recent-activity.config.yml  # Ruta correcta
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
