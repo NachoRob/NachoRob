@@ -9,9 +9,12 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v3  # Asegura acceso a los archivos
+
       - name: Setup recent activity
-        uses: Readme-Workflows/recent-activity@v2.4.1
+        uses: Readme-Workflows/recent-activity@v2.5.0
         with:
-          config-file: .github/recent-activity.config.yml  # Asegúrate de la ruta correcta
+          config-file: .github/recent-activity.config.yml
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
