@@ -1,2 +1,18 @@
-fetch: 20
-ignored: []
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # Se ejecuta cada 12 horas
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup recent activity
+        uses: Readme-Workflows/recent-activity@v2.4.1
+        with:
+          config-file: .github/recent-activity.config.yml  # Ruta correcta
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
