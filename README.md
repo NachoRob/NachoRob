@@ -22,9 +22,8 @@ I'm transitioning into **Data Science** to help businesses grow through **data-d
 
 ### :zap: Actividad reciente
 
-<!--RECENT_ACTIVITY: start-->
-
-<!--RECENT_ACTIVITY: last_update-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 ## 📬 How to Reach Me  
 📧 **Email:** ignaciorob86@gmail.com  
