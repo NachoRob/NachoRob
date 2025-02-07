@@ -20,9 +20,9 @@ I'm transitioning into **Data Science** to help businesses grow through **data-d
 - Machine Learning Fundamentals  
 - Building real-world **data analytics projects**  
 
-### :zap: Actividad reciente
-
+## Última actividad reciente 📊
 <!--RECENT_ACTIVITY:start-->
+
 <!--RECENT_ACTIVITY:end-->
 
 ## 📬 How to Reach Me  
