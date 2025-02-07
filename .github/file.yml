@@ -1,2 +1,2 @@
-fetch: 20  # Número de actividades recientes a mostrar
+    fetch: 20  # Número de actividades recientes a mostrar
 ignored: []  # Puedes agregar eventos a ignorar si lo deseas
