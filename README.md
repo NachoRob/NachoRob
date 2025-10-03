@@ -1,50 +1,65 @@
-# 👋 Hi there! I'm Ignacio Robles  
+# 👋 ¡Hola! Soy Ignacio Robles
 
-## 🧑‍💻 About Me  
-🎯 **Business Administrator** | **Digital Business Specialist** | **Aspiring Data Scientist**  
+## 🧑‍💻 Sobre Mí
+🎯 **Data Scientist** | **Business Administrator**
 
-I'm transitioning into **Data Science** to help businesses grow through **data-driven decision making**. With a strong background in **business administration and digital business**, I aim to bridge the gap between **business strategy** and **data analytics**.  
+Soy un Científico de Datos con un sólido background en **Administración y Negocios Digitales**. Mi especialidad es cerrar la brecha entre la **estrategia de negocio** y el **análisis de datos**, utilizando la ciencia de datos para impulsar el crecimiento y la toma de decisiones informadas.
 
-💡 Passionate about **data-driven decision-making, predictive analytics, and machine learning**.  
-📊 Exploring **SQL, Python, and Machine Learning**.  
-🚀 Open to collaborating on **Data Science & Analytics projects** to gain hands-on experience.  
-
-## 🔨 Skills & Technologies  
-- **Programming:** Python, SQL  
-- **Data Analysis & Visualization:** Pandas, Matplotlib, Seaborn, Power BI  
-- **Machine Learning:** Scikit-learn (learning)  
-- **Business & Strategy:** Digital Business, Growth Strategies, Market Analytics  
-
-## 🌱 Currently Learning  
-- Advanced **SQL queries**  
-- Machine Learning Fundamentals  
-- Building real-world **data analytics projects**  
-
-## 🔥 Actividad Reciente
-
-<!--RECENT_ACTIVITY:start-->
-
-<!--RECENT_ACTIVITY:end-->
-
-## 📬 How to Reach Me  
-📧 **Email:** ignaciorob86@gmail.com  
-📸 **Instagram:** [i_ro_86](https://www.instagram.com/i_ro_86/)  
-🐦 **X (Twitter):** [@Ignacio83743803](https://twitter.com/Ignacio83743803)  
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/NachoRob/NachoRob)
-
-![GitHub followers](https://img.shields.io/github/followers/NachoRob?style=social)
-
-![GitHub top language](https://img.shields.io/github/languages/top/NachoRob/NachoRob)
-
-![GitHub last commit](https://img.shields.io/github/last-commit/NachoRob/Proyecto-curso-DS)
-
-## 💡 Fun Fact  
-I'm still searching for the perfect **data-related fun fact**... Stay tuned! 😆  
+💡 Apasionado por el **modelamiento predictivo, machine learning** y la creación de soluciones de datos de principio a fin.
+🚀 Siempre buscando colaborar en proyectos innovadores de **Data Science & Analytics**.
 
 ---
 
-<!---
-NachoRob/NachoRob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->  
+## 🛠️ Mi Stack Tecnológico
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="#-programación-y-consultas">
+        <img src="https://skillicons.dev/icons?i=python,sql" width="60" height="60" alt="Lenguajes" />
+      </a>
+      <br>Programación
+    </td>
+    <td align="center" width="120">
+      <a href="#-data-science--machine-learning">
+        <img src="https://skillicons.dev/icons?i=pandas,numpy,scikitlearn,tensorflow,huggingface" width="60" height="60" alt="Data Science & ML" />
+      </a>
+      <br>Data Science & ML
+    </td>
+    <td align="center" width="120">
+      <a href="#-bases-de-datos--data-warehousing">
+        <img src="https://skillicons.dev/icons?i=postgres,gcp" width="60" height="60" alt="Bases de Datos" />
+      </a>
+      <br>Bases de Datos
+    </td>
+    <td align="center" width="120">
+      <a href="#-cloud--mlops">
+        <img src="https://skillicons.dev/icons?i=docker,git,github,fastapi" width="60" height="60" alt="Cloud & MLOps" />
+      </a>
+      <br>Cloud & MLOps
+    </td>
+     <td align="center" width="120">
+      <a href="#-visualización--bi">
+        <img src="https://skillicons.dev/icons?i=seaborn,plotly,powerbi" width="60" height="60" alt="Visualización & BI" />
+      </a>
+      <br>Visualización & BI
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📜 Certificaciones
+
+- **[Google Cloud Certified - Cloud Digital Leader](https://www.credly.com/users/ignacio-robles.5e1ec43d))** - *Google Cloud*
+---
+
+## 🌱 Actualmente Aprendiendo
+- Arquitecturas avanzadas para sistemas **RAG (Retrieval-Augmented Generation)**.
+- Despliegue y monitoreo de modelos en producción (**MLOps**).
+- Profundizando en **Google Cloud Platform (Vertex AI)**.
+
+---
+
+## 🔥 Actividad Reciente
+
