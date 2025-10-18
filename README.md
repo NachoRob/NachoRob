@@ -42,6 +42,12 @@ Soy un Científico de Datos con un sólido background en **Administración y Neg
       <a href="#-visualización--bi">
         <img src="https://skillicons.dev/icons?i=seaborn,plotly,powerbi" width="60" height="60" alt="Visualización & BI" />
       </a>
+    <td align="center" width="120">
+      <a href="#-frontend--web">
+        <img src="https://skillicons.dev/icons?i=html,css" width="60" height="60" alt="HTML y CSS" />
+      </a>
+    <br>Frontend / Web
+</td>
       <br>Visualización & BI
     </td>
   </tr>
