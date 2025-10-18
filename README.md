@@ -38,17 +38,17 @@ Soy un Científico de Datos con un sólido background en **Administración y Neg
       </a>
       <br>Cloud & MLOps
     </td>
-     <td align="center" width="120">
+    <td align="center" width="120">
       <a href="#-visualización--bi">
         <img src="https://skillicons.dev/icons?i=seaborn,plotly,powerbi" width="60" height="60" alt="Visualización & BI" />
       </a>
+      <br>Visualización & BI
+    </td>
     <td align="center" width="120">
       <a href="#-frontend--web">
         <img src="https://skillicons.dev/icons?i=html,css" width="60" height="60" alt="HTML y CSS" />
       </a>
-    <br>Frontend / Web
-</td>
-      <br>Visualización & BI
+      <br>Frontend / Web
     </td>
   </tr>
 </table>
@@ -58,6 +58,11 @@ Soy un Científico de Datos con un sólido background en **Administración y Neg
 ## 📜 Certificaciones
 
 - **[Google Cloud Certified - Cloud Digital Leader](https://www.credly.com/users/ignacio-robles.5e1ec43d))** - *Google Cloud*
+- **SQL para el Análisis de Datos** – *Desafío Latam (2025)*
+- **Visualización y Comunicación de Insights** – *Desafío Latam (2025)*
+- **Programación con Python para el Análisis de Datos** – *Desafío Latam (2025)*
+- **Análisis Estadístico con Python** – *Desafío Latam (2025)*
+- **Introducción al Desarrollo Web (HTML & CSS)** – *Desafío Latam (2025)*
 ---
 
 ## 🌱 Actualmente Aprendiendo
