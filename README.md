@@ -5,8 +5,8 @@
 
 Soy un Data Scientist con experiencia en el diseño, desarrollo y despliegue de soluciones basadas en datos. Me especializo en transformar información en conocimiento accionable, mediante machine learning, análisis predictivo y arquitecturas de datos escalables.
 
-💡 Apasionado por el **modelamiento predictivo, ingeniería de datos** y la **automatización de flujos analíticos** con prácticas de **MLOps**.
-🚀 Siempre buscando colaborar en proyectos innovadores de **Data Science & AI y desarrollo de soluciones de datos**.
+Apasionado por el **modelamiento predictivo, ingeniería de datos** y la **automatización de flujos analíticos** con prácticas de **MLOps**.
+Siempre buscando colaborar en proyectos innovadores de **Data Science & AI y desarrollo de soluciones de datos**.
 
 ---
 
