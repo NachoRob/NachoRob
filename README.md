@@ -1,12 +1,12 @@
 # 👋 ¡Hola! Soy Ignacio Robles
 
 ## 🧑‍💻 Sobre Mí
-🎯 **Data Scientist** | **Business Administrator**
+🎯 **Data Scientist** | **Data Analyst**
 
-Soy un Científico de Datos con un sólido background en **Administración y Negocios Digitales**. Mi especialidad es cerrar la brecha entre la **estrategia de negocio** y el **análisis de datos**, utilizando la ciencia de datos para impulsar el crecimiento y la toma de decisiones informadas.
+Soy un Data Scientist con experiencia en el diseño, desarrollo y despliegue de soluciones basadas en datos. Me especializo en transformar información en conocimiento accionable, mediante machine learning, análisis predictivo y arquitecturas de datos escalables.
 
-💡 Apasionado por el **modelamiento predictivo, machine learning** y la creación de soluciones de datos de principio a fin.
-🚀 Siempre buscando colaborar en proyectos innovadores de **Data Science & Analytics**.
+💡 Apasionado por el **modelamiento predictivo, ingeniería de datos** y la **automatización de flujos analíticos** con prácticas de **MLOps**.
+🚀 Siempre buscando colaborar en proyectos innovadores de **Data Science & AI y desarrollo de soluciones de datos**.
 
 ---
 
