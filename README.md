@@ -76,4 +76,8 @@ Siempre buscando colaborar en proyectos innovadores de **Data Science & AI y des
 ---
 
 ## 🔥 Actividad Reciente
+- 🚀 Desarrollando un sistema de predicción de demanda usando *Python + Prophet*.
+- 🧠 Implementando un flujo **RAG** (Retrieval-Augmented Generation) con *LangChain y Vertex AI*.
+- 📊 Publicando notebooks sobre *feature engineering* y *evaluación de modelos*.
+- 🧰 Aprendiendo desarrollo web Fullstack JS *HTML + CSS*.
 
