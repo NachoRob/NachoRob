@@ -60,7 +60,7 @@ Siempre buscando colaborar en proyectos innovadores de **Data Science & AI y des
 
 ## 📜 Certificaciones
 
-- **[Google Cloud Certified - Cloud Digital Leader](https://www.credly.com/users/ignacio-robles.5e1ec43d))** - *Google Cloud*
+- **[Google Cloud Certified - Cloud Digital Leader](https://www.credly.com/users/ignacio-robles.5e1ec43d)** - *Google Cloud*
 - **SQL para el Análisis de Datos** – *Desafío Latam (2025)*
 - **Visualización y Comunicación de Insights** – *Desafío Latam (2025)*
 - **Programación con Python para el Análisis de Datos** – *Desafío Latam (2025)*
