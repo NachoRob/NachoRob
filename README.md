@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Ignacio Robles
 
 ## 🧑‍💻 Sobre Mí
-🎯 **Data Scientist** | **Data Analyst**
+🎯 **Data Scientist** | **Software Engineer**
 
 Soy un Data Scientist con experiencia en el diseño, desarrollo y despliegue de soluciones basadas en datos. Me especializo en transformar información en conocimiento accionable, mediante machine learning, análisis predictivo y arquitecturas de datos escalables.
 
