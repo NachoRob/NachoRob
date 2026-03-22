@@ -16,7 +16,7 @@ Siempre buscando colaborar en proyectos innovadores de **Data Science & AI y des
   <tr>
     <td align="center" width="120">
       <a href="#-programación-y-consultas">
-        <img src="https://skillicons.dev/icons?i=python,sql" width="60" height="60" alt="Lenguajes" />
+        <img src="https://skillicons.dev/icons?i=python,sql,js" width="60" height="60" alt="Lenguajes" />
       </a>
       <br>Programación
     </td>
@@ -69,6 +69,8 @@ Siempre buscando colaborar en proyectos innovadores de **Data Science & AI y des
 - Arquitecturas avanzadas para sistemas **RAG (Retrieval-Augmented Generation)**.
 - Despliegue y monitoreo de modelos en producción (**MLOps**).
 - Profundizando en **Google Cloud Platform (Vertex AI)**.
+- Desarrollo fullstack con **JavaScript, React, Nodejs**.
+- Certificación **Google Professional Arquitect**. 
 
 ---
 
