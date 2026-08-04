@@ -45,6 +45,10 @@ Astro • React • CSS
 
 ## Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,react,astro,gcp,docker,postgres,git,github,githubactions,fastapi,tensorflow" />
+</p>
+
 Languages
 
 Python • JavaScript • SQL
