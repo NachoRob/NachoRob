@@ -94,7 +94,7 @@ Google Cloud Certified — Associate Cloud Engineer
 
 Google Cloud Certified — Cloud Digital Leader
 
-Data Analyst with Python — Desafío Latam
+Data Scientist with Python — Desafío Latam
 
 ---
 
