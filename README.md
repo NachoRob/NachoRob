@@ -116,3 +116,5 @@ Data Scientist with Python — Desafío Latam
 ## Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/ignacioroblesr)
+
+[ignaciorob86@gmail.com](mailto:ignaciorob86@gmail.com)
