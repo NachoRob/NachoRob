@@ -49,6 +49,7 @@ Astro • React • CSS
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,react,astro,gcp,docker,postgres,git,github,githubactions,fastapi,tensorflow" />
 </p>
 
+
 Languages
 
 Python • JavaScript • SQL
@@ -115,7 +116,3 @@ Data Scientist with Python — Desafío Latam
 ## Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/ignacioroblesr)
-
-Portfolio
-
-Email
